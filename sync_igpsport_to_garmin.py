@@ -36,7 +36,7 @@ class IGPSportClient:
 
     REGION_CONFIG = {
         "cn": {
-            "base_url": "https://prod.zh.igpsport.com/service",
+            "base_url": "https://login.passport.igpsport.com",
             "origin": "https://login.passport.igpsport.cn",
             "referer": "https://login.passport.igpsport.cn/",
         },
