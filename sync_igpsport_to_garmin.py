@@ -41,7 +41,7 @@ class IGPSportClient:
             "referer": "https://login.passport.igpsport.cn/",
         },
         "global": {
-            "base_url": "https://prod.en.igpsport.com/service",
+            "base_url": "https://login.passport.igpsport.com",
             "origin": "https://login.passport.igpsport.com",
             "referer": "https://login.passport.igpsport.com/",
         },
